@@ -11,7 +11,7 @@
 ## Overview of the Project
 
 ### Project: Exploratory Data Analysis (EDA) on World Population Dataset
-![Screenshot 2024-06-02 141419](https://github.com/HemanthRandom/CODTECH-Task1/assets/171478484/29151158-7f7d-4e39-a328-2f6fa81c8910)
+![Screenshot 2024-06-02 141419](https://github.com/HemanthRandossazxm/CODTECH-Task1/assets/171478484/29151158-7f7d-4e39-a328-2f6fa81c8910)
 
 ### Objective
 The objective of this project is to perform Exploratory Data Analysis (EDA) on a dataset containing population data from 1970 to 2022 for countries around the world. The aim is to uncover insights into population trends, distributions, correlations, and outliers through visualizations.
