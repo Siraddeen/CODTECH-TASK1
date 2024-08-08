@@ -41,3 +41,12 @@ A real-time chat application that allows users to communicate instantly through 
 -  This project demonstrates a fully functional real-time chat application with essential features for user communication and interaction. It's an example of integrating front-end and back-end technologies to build a seamless and interactive user experience.
 
 
+### how to use
+
+- Clone the repo, & use npm install on both front end & backend folders
+- First create a .env file in backend & give your mongodb atlas url to prisma 
+- Then use npm start in backend terminal to start the backend
+- Then use npn run dev in frontend terminal to start the frontend
+- Now you can signup & use the application
+
+
